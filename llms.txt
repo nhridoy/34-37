@@ -1,0 +1,33 @@
+# Quran Audio — Surahs 34, 35, 36, 37
+
+> Quran MP3 collection for Surahs 34, 35, 36, 37 by 17 reciters.
+
+## Surahs
+- 34
+- 35
+- 36
+- 37
+
+## Reciters
+- ar.abdullahbasfar
+- ar.abdulsamad
+- ar.abdurrahmaansudais
+- ar.ahmedajamy
+- ar.alafasy
+- ar.aymanswoaid
+- ar.hanirifai
+- ar.hudhaify
+- ar.husary
+- ar.husarymujawwad
+- ar.ibrahimakhbar
+- ar.mahermuaiqly
+- ar.muhammadayyoub
+- ar.muhammadjibreel
+- ar.parhizgar
+- ar.saoodshuraym
+- ar.shaatree
+
+## CDN Links
+- jsDelivr: https://cdn.jsdelivr.net/gh/nhridoy/34-37@main/{surah_number}/{reciter}/{ayah_number}.mp3
+- GitHub Raw: https://raw.githubusercontent.com/nhridoy/34-37/refs/heads/main/{surah_number}/{reciter}/{ayah_number}.mp3
+- Statically: https://cdn.statically.io/gh/nhridoy/34-37@main/{surah_number}/{reciter}/{ayah_number}.mp3
